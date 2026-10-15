@@ -1,0 +1,27 @@
+date_time,type,severity,detections
+2026-10-15 14:21:10,dos_hulk,HIGH,10
+2026-10-15 14:21:10,ddos,HIGH,1
+2026-10-15 14:21:10,bot,HIGH,1857
+2026-10-15 14:21:10,web_brute_force,HIGH,2
+2026-10-15 14:54:45,dos_hulk,HIGH,8
+2026-10-15 14:54:45,ddos,HIGH,1
+2026-10-15 14:54:45,bot,HIGH,2
+2026-10-15 14:56:59,dos_hulk,HIGH,25
+2026-10-15 14:56:59,dos_goldeneye,HIGH,1
+2026-10-15 14:56:59,ftp_patator,HIGH,7932
+2026-10-15 14:56:59,dos_slowhttptest,MEDIUM,3
+2026-10-15 14:56:59,ssh_patator,HIGH,5895
+2026-10-15 14:59:24,dos_hulk,HIGH,222216
+2026-10-15 14:59:24,portscan,MEDIUM,1
+2026-10-15 14:59:24,dos_goldeneye,HIGH,10289
+2026-10-15 14:59:24,dos_slowloris,MEDIUM,5789
+2026-10-15 14:59:24,dos_slowhttptest,MEDIUM,5502
+2026-10-15 15:17:33,dos_hulk,HIGH,25
+2026-10-15 15:17:33,dos_goldeneye,HIGH,1
+2026-10-15 15:17:33,ftp_patator,HIGH,7932
+2026-10-15 15:17:33,dos_slowhttptest,MEDIUM,3
+2026-10-15 15:17:33,ssh_patator,HIGH,5895
+2026-10-15 15:18:29,dos_hulk,HIGH,20
+2026-10-15 15:18:29,ddos,HIGH,1
+2026-10-15 15:18:29,portscan,MEDIUM,547
+2026-10-15 15:18:29,bot,HIGH,4
